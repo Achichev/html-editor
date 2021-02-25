@@ -1,4 +1,4 @@
-package com.javarush.task.task32.task3209;
+package html_editor;
 
 public class ExceptionHandler {
     public static void log(Exception e) {
