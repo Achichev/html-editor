@@ -1,4 +1,4 @@
-package com.javarush.task.task32.task3209.actions;
+package html_editor.actions;
 
 import javax.swing.*;
 import javax.swing.text.MutableAttributeSet;
