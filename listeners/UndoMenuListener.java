@@ -1,6 +1,5 @@
 package html_editor.listeners;
 
-
 import html_editor.View;
 
 import javax.swing.*;
