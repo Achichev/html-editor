@@ -1,7 +1,7 @@
-package com.javarush.task.task32.task3209.listeners;
+package html_editor.listeners;
 
 
-import com.javarush.task.task32.task3209.View;
+import html_editor.View;
 
 import javax.swing.*;
 import javax.swing.event.MenuEvent;
