@@ -1,6 +1,6 @@
-package com.javarush.task.task32.task3209;
+package html_editor;
 
-import com.javarush.task.task32.task3209.listeners.UndoListener;
+import html_editor.listeners.UndoListener;
 
 import javax.swing.*;
 import javax.swing.text.BadLocationException;
